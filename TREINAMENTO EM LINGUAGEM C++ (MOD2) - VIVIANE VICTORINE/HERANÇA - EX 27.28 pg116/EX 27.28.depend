@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1475197776 source:d:\walysson\ex 27.28\empresa.cpp
+	"empresa.h"
+
+1475197743 d:\walysson\ex 27.28\empresa.h
+	<iostream>
+
+1475198728 source:d:\walysson\ex 27.28\main.cpp
+	<iostream>
+	"restaurante.h"
+
+1475198728 d:\walysson\ex 27.28\restaurante.h
+	"empresa.h"
+
+1475199094 source:d:\walysson\ex 27.28\restaurante.cpp
+	"restaurante.h"
+	<cstdio>
+

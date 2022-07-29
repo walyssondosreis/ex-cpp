@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1478025583 source:d:\ex.3prova2\conta.cpp
+	"Conta.h"
+
+1478025583 d:\ex.3prova2\conta.h
+	<iostream>
+	<string>
+	<cstdio>
+
+1478026601 source:d:\ex.3prova2\main.cpp
+	<iostream>
+	"Conta.h"
+	"CConjunta.h"
+	"CEspecial.h"
+	<stdlib.h>
+
+1478026601 d:\ex.3prova2\cconjunta.h
+	"Conta.h"
+
+1478026601 source:d:\ex.3prova2\cconjunta.cpp
+	"CConjunta.h"
+
+1477960382 source:d:\ex.3prova2\cespecial.cpp
+	"CEspecial.h"
+
+1477960384 d:\ex.3prova2\cespecial.h
+	"Conta.h"
+

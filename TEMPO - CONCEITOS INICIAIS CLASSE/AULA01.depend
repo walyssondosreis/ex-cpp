@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1470964840 source:d:\aula01\main.cpp
+	<iostream>
+	"tempo.h"
+
+1470964804 d:\aula01\tempo.h
+

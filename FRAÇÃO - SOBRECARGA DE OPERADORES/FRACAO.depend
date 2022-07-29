@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1474551353 source:c:\users\walyssondosreis\onedrive\documentos\3+engenharia de computa플o\algoritimo e programa플o\c++\fracao\main.cpp
+	<iostream>
+	"fracao.h"
+
+1474552311 c:\users\walyssondosreis\onedrive\documentos\3+engenharia de computa플o\algoritimo e programa플o\c++\fracao\fracao.h
+	<iostream>
+
+1474552311 source:c:\users\walyssondosreis\onedrive\documentos\3+engenharia de computa플o\algoritimo e programa플o\c++\fracao\fracao.cpp
+	"fracao.h"
+	<cmath>
+
+1473989232 source:e:\rsx\fracao\fracao.cpp
+	"fracao.h"
+	<cmath>
+
+1473989175 e:\rsx\fracao\fracao.h
+	<iostream>
+
+1473987415 source:e:\rsx\fracao\main.cpp
+	<iostream>
+	"fracao.h"
+

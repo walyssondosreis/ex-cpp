@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1476130989 source:d:\ex 29.30.31.32\motor.cpp
+	"Motor.h"
+
+1476124982 d:\ex 29.30.31.32\motor.h
+	<iostream>
+
+1476131698 source:d:\ex 29.30.31.32\main.cpp
+	<iostream>
+	"Motor.h"
+	"Veiculo.h"
+	"CarroPasseio.h"
+	"Caminhao.h"
+
+1476127152 d:\ex 29.30.31.32\veiculo.h
+	<iostream>
+
+1476130989 source:d:\ex 29.30.31.32\veiculo.cpp
+	"Veiculo.h"
+
+1476130989 source:d:\ex 29.30.31.32\carropasseio.cpp
+	"CarroPasseio.h"
+
+1476129748 d:\ex 29.30.31.32\carropasseio.h
+	<iostream>
+	<string>
+	"Motor.h"
+	"Veiculo.h"
+	<cstdio>
+
+1476131907 d:\ex 29.30.31.32\caminhao.h
+	<iostream>
+	"Motor.h"
+	"Veiculo.h"
+
+1476131879 source:d:\ex 29.30.31.32\caminhao.cpp
+	"Caminhao.h"
+

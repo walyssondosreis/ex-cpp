@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1473383056 source:d:\aula04\cliente.cpp
+	"cliente.h"
+
+1473383056 d:\aula04\cliente.h
+	<iostream>
+
+1473383056 source:d:\aula04\produto.cpp
+	"produto.h"
+
+1473383056 d:\aula04\produto.h
+	<iostream>
+
+1473383201 source:d:\aula04\main.cpp
+	<iostream>
+	"cliente.h"
+	"produto.h"
+	"venda.h"
+
+1473383714 d:\aula04\venda.h
+	<iostream>
+

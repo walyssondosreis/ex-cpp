@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1471567965 source:d:\aula02\main.cpp
+	<iostream>
+	"aluno.h"
+
+1471570086 d:\aula02\aluno.h
+
+1471570165 source:d:\aula02\aluno.cpp
+	<iostream>
+	"aluno.h"
+
+1471570165 source:c:\users\walyssondosreis\onedrive\documentos\3+engenharia de computa플o\algoritimo e programa플o\c++\aula02\aluno.cpp
+	<iostream>
+	"aluno.h"
+
+1471570086 c:\users\walyssondosreis\onedrive\documentos\3+engenharia de computa플o\algoritimo e programa플o\c++\aula02\aluno.h
+
+1471570215 source:c:\users\walyssondosreis\onedrive\documentos\3+engenharia de computa플o\algoritimo e programa플o\c++\aula02\main.cpp
+	<iostream>
+	"aluno.h"
+

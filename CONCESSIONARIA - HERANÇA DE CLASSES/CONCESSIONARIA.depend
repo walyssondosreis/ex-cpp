@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1475180546 source:d:\c++\concessionaria\main.cpp
+	<iostream>
+	"carro.h"
+
+1475180310 source:d:\c++\concessionaria\veiculo.cpp
+	"Veiculo.h"
+
+1475180310 d:\c++\concessionaria\veiculo.h
+	<iostream>
+
+1475180405 source:d:\c++\concessionaria\carro.cpp
+	"carro.h"
+
+1475179395 d:\c++\concessionaria\carro.h
+	"Veiculo.h"
+
+1475182014 source:d:\c++\concessionaria\carropolitico.cpp
+	"carropolitico.h"
+
+1475182014 d:\c++\concessionaria\carropolitico.h
+	"carro.h"
+	<iostream>
+
+1475193242 source:d:\walysson\concessionaria\carropolitico.cpp
+	"carropolitico.h"
+
+1475193234 d:\walysson\concessionaria\carropolitico.h
+	"carro.h"
+	<iostream>
+
+1475195742 d:\walysson\concessionaria\carro.h
+	"Veiculo.h"
+
+1475195131 d:\walysson\concessionaria\veiculo.h
+	<iostream>
+
+1475195131 source:d:\walysson\concessionaria\carro.cpp
+	"carro.h"
+
+1475195354 source:d:\walysson\concessionaria\main.cpp
+	<iostream>
+	"carropolitico.h"
+
+1475195131 source:d:\walysson\concessionaria\veiculo.cpp
+	"Veiculo.h"
+

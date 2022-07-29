@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1472928656 source:c:\users\walyssondosreis\onedrive\documentos\3+engenharia de computa플o\algoritimo e programa플o\c++\aula03\aula3\main.cpp
+	<iostream>
+	"Estacionamento.h"
+
+1472656182 c:\users\walyssondosreis\onedrive\documentos\3+engenharia de computa플o\algoritimo e programa플o\c++\aula03\aula3\tempo.h
+
+1472925091 source:c:\users\walyssondosreis\onedrive\documentos\3+engenharia de computa플o\algoritimo e programa플o\c++\aula03\aula3\tempo.cpp
+	"Tempo.h"
+	<iostream>
+	<cstdio>
+
+1472929839 source:c:\users\walyssondosreis\onedrive\documentos\3+engenharia de computa플o\algoritimo e programa플o\c++\aula03\aula3\estacionamento.cpp
+	"Estacionamento.h"
+
+1472929641 c:\users\walyssondosreis\onedrive\documentos\3+engenharia de computa플o\algoritimo e programa플o\c++\aula03\aula3\estacionamento.h
+	"Tempo.h"
+	<iostream>
+
+1472779064 source:d:\aula3\tempo.cpp
+	"Tempo.h"
+	<iostream>
+	<cstdio>
+
+1472656182 d:\aula3\tempo.h
+
+1472779064 source:d:\aula3\main.cpp
+	<iostream>
+	"Estacionamento.h"
+
+1472779064 d:\aula3\estacionamento.h
+	"Tempo.h"
+	<iostream>
+
+1472779460 source:d:\aula3\estacionamento.cpp
+	"Estacionamento.h"
+

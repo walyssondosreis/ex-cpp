@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1480011028 source:f:\walysson\projeto algoritmo\filmeorganizer\video.cpp
+	"Video.h"
+
+1480011028 f:\walysson\projeto algoritmo\filmeorganizer\video.h
+	<iostream>
+	<string.h>
+
+1480016750 source:f:\walysson\projeto algoritmo\filmeorganizer\main.cpp
+	"MenuPrincipal.h"
+	"Manip.h"
+
+1480013531 f:\walysson\projeto algoritmo\filmeorganizer\menuprincipal.h
+	<iostream>
+
+1480013868 source:f:\walysson\projeto algoritmo\filmeorganizer\menuprincipal.cpp
+	"MenuPrincipal.h"
+
+1480014130 source:f:\walysson\projeto algoritmo\filmeorganizer\filme.cpp
+	"Filme.h"
+
+1480014232 f:\walysson\projeto algoritmo\filmeorganizer\filme.h
+	"Video.h"
+
+1480016834 source:f:\walysson\projeto algoritmo\filmeorganizer\manip.cpp
+	"Manip.h"
+
+1480016814 f:\walysson\projeto algoritmo\filmeorganizer\manip.h
+	<iostream>
+	<cstdio>
+	"Filme.h"
+	"Serie.h"
+
+1480014142 source:f:\walysson\projeto algoritmo\filmeorganizer\serie.cpp
+	"Serie.h"
+
+1480014232 f:\walysson\projeto algoritmo\filmeorganizer\serie.h
+	"Video.h"
+
